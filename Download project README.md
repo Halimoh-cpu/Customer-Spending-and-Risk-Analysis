@@ -63,7 +63,6 @@ This project addresses that gap directly. Using customer transaction data coveri
 
 ---
 
-<img width="998" height="572" alt="Screenshot 2026-07-19 003833" src="https://github.com/user-attachments/assets/ed24130e-deaa-4391-b38f-3f31ddf86e25" />
 
 <img width="1003" height="560" alt="Screenshot 2026-07-20 101523" src="https://github.com/user-attachments/assets/95d9377c-71b5-49c6-ae23-913f0d29730b" />
 
